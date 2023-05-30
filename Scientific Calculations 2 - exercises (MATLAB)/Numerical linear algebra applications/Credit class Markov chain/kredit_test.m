@@ -1,0 +1,1 @@
+    [V,D,uk]=kredit_raz(200);
